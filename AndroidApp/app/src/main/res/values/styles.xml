@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <style name="SwitchStyle" parent="Theme.MaterialComponents.DayNight">
+        <item name="colorPrimary">#4CAF50</item>
+        <item name="colorSurface">#FFFFFF</item>
+    </style>
+</resources>

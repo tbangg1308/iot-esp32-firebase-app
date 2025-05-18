@@ -1,0 +1,49 @@
+{
+  "project_info": {
+    "project_number": "294656206199",
+    "firebase_url": "https://iotcontrol-cbfbd-default-rtdb.firebaseio.com",
+    "project_id": "iotcontrol-cbfbd",
+    "storage_bucket": "iotcontrol-cbfbd.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:294656206199:android:f112ea129c7f9c6a502d72",
+        "android_client_info": {
+          "package_name": "com.example.iot_esp32_android_firebase"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAgcOq7jErM3IXirIp6KMYjTx0TjCedRjw"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:294656206199:android:623b72b2005d4d6c502d72",
+        "android_client_info": {
+          "package_name": "com.example.iotcontrol"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAgcOq7jErM3IXirIp6KMYjTx0TjCedRjw"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
